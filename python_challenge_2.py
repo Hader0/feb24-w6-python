@@ -26,3 +26,11 @@ Explanation: The array ans is formed as follows:
 - ans = [1,3,2,1,1,3,2,1]
 
 '''
+
+class Solution(object):
+    def getConcatenation(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        
